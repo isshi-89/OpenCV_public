@@ -1,1 +1,1 @@
-# OpenCV_public
+# OpenCVにおいて記録のためにpublicにするデータ
